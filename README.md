@@ -1,6 +1,4 @@
-Certainly! Here's the markdown code for your README.md file:
 
-```markdown
 # Stock Price Predictor
 
 ## Description
